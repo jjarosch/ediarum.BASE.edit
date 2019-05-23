@@ -347,13 +347,14 @@ abstract quote:after {
 
 /* Anmerkungen zum Text */
 notesStmt note:before {
-    content: "Anmerkungen zum Text";
+    content: "Anmerkungen zum Text:";
     font-weight: bold;
 }
 
 notesStmt note p {
     display: block;
-    -oxy-placeholder-content: "[Text hier eingeben]";
+    -oxy-placeholder-content: "[Hier Anmerkungen zum Text eintragen]";
+    -oxy-show-placeholder: always;
 }
 
 notesStmt {
