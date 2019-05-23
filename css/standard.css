@@ -251,7 +251,7 @@ text {
 }
 
 profileDesc creation:empty {
-    -oxy-placeholder-content: '[Angaben zur Erstellung des Manuskripts über Menü "Allgemein" angeben]'; 
+    -oxy-placeholder-content: '[Angaben zur Erstellung des Manuskripts über Menü »Metadaten« eintragen]'; 
     display: block;
 } 
 
